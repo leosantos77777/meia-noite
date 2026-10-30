@@ -1,0 +1,6 @@
+{
+  "name": "Depois da Meia-Noite - Conto em Áudio",
+  "description": "Landing page oficial para venda do conto narrado em áudio 'Depois da Meia-Noite' por R$ 9,90 em pagamento único.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
